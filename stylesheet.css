@@ -1,0 +1,34 @@
+
+#header{
+    font-size: 50px;
+    text-align: center;
+}
+
+#outer{
+    width: 100%;
+    text-align: center;
+}
+
+#inputform{
+    display:inline-block;
+    margin : auto;
+}
+
+.field{
+    height: 24px;
+    font-size: 15px;
+    text-align: center;
+}
+
+.linkcls{
+
+}
+
+.btn{
+    height: 30px;
+    color: white;
+    font-size: 16px;
+    background-color: #0088ff;
+}
+
+ 
